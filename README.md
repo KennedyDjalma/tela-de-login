@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
-<a href="https://kennedydjalma.github.io/tela-de-login/" target="_blank" > Execultar a tela de login. </a>
+<a href="https://kennedydjalma.github.io/tela-de-login/" target="_blank" rel="external" > Execultar a tela de login. </a>
